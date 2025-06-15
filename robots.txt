@@ -1,0 +1,6 @@
+# robots.txt gerado em 
+# devtools.com.br/gerador-de-robots-txt/
+Sitemap: https://augustoteles11.github.io/Dark-Souls/
+User-agent: *
+Disallow:
+Disallow: /tabela
